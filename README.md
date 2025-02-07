@@ -4,7 +4,10 @@ Welcome to my GitHub profile! I'm a backend developer who loves building fast an
 
 ---
 
-## 🛠️ Tech Skills
+## 🌌 Tech Stack & Tools
+
+<div align="center">
+
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -26,25 +29,37 @@ Welcome to my GitHub profile! I'm a backend developer who loves building fast an
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
----
-
-## 📜 Certifications
-- **AWS Solutions Architect Associate** ([Credly](https://www.credly.com/badges/6bd5c808-989c-4c59-a4d9-e752a956bc63/public_url))
+</div>
 
 ---
 
-## 📈 GitHub Stats
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yousef301&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef301&layout=compact&theme=radical)
+## 🎓 Certifications
+
+- 🏅 **AWS Solutions Architect Associate** ([Credly](https://www.credly.com/badges/6bd5c808-989c-4c59-a4d9-e752a956bc63/public_url))
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yousef301&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef301&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🚀 Let's Connect & Build the Future
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-shamasneh-9b02b0225)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:shamasnehyousef173@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F00?logo=firefox&logoColor=white)](https://portfolio.shamasneh.com/)
 
+</div>
+
 ---
 
 ![snake gif](https://github.com/Yousef301/yousef301/blob/output/github-snake-dark.svg)
-
